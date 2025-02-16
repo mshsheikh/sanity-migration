@@ -13,7 +13,6 @@
     "strict": true,
     "skipLibCheck": true,
 
-    /* Output */
     "outDir": "./dist"
   },
 }
